@@ -6,6 +6,7 @@
 ### Contacts 📞  
   -  Email> patrik.lemberg5@gmail.com
   -  Discord> pada50
+  -  LinkedIn> [Patrik Lemberg](https://www.linkedin.com/in/patrik-lemberg-06b276325/)
 
 
 
