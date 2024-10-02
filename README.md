@@ -2,7 +2,7 @@
 ## About me 🧐
   - I am a finnish student currently studying at LAB University of Applied Sciences. Studying Indrustrial Information Technology.
   - I enjoy gaming and learning new things.
-  - Current main hobby is 3d printing.
+    
 ### Contacts 📞  
   -  Email> patrik.lemberg5@gmail.com
   -  Discord> pada50
