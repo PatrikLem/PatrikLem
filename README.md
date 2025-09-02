@@ -1,6 +1,6 @@
 # Hello visitors 😄
 ## About me 🧐
-  - I am a finnish student currently studying at LAB University of Applied Sciences. Studying Indrustrial Information Technology.
+  - I am a finnish student currently studying at LAB University of Applied Sciences. Studying Industrial Information Technology.
   - I enjoy gaming and learning new things.
     
 ### Contacts 📞  
